@@ -139,7 +139,7 @@ a.info-box{
 .info-box img{
     height : 70px;
     margin : 10px;
-    float  : left;
+    float  : right;
 }
 
 .info-box h3{
